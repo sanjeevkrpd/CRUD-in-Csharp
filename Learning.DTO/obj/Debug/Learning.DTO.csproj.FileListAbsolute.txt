@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Learning.DTO.dll
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Learning.DTO.pdb
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\obj\Debug\Learning.DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\obj\Debug\Learning.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\obj\Debug\Learning.DTO.dll
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\obj\Debug\Learning.DTO.pdb
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Quintsys.System.dll
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Admin\source\repos\LearningApi\Learning.DTO\obj\Debug\Learning.CEF89D0F.Up2Date
